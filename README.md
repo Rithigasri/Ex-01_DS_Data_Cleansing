@@ -43,3 +43,6 @@ df.info()
 ## AFTER CLEANING THE DATA:
 ![Output](./out3.png)
 ![Output](./out4.png)
+
+# RESULT:
+Hence the given data is read and has undergone data cleaning.
