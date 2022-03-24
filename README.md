@@ -36,10 +36,10 @@ df['current_overall_rank']=df['current_overall_rank'].fillna(df['current_overall
 df.info()
 ```
 # OUTPUT:
-## BEFORE CLEANSING THE DATA:
+## BEFORE CLEANING THE DATA:
 ![Output](./out1.png)
 ![Output](./out2.png)
 
-## AFTER CLEANSING THE DATA:
+## AFTER CLEANING THE DATA:
 ![Output](./out3.png)
 ![Output](./out4.png)
